@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**155157171/155157171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+                       :::!~!!!!!:.
+                   .xUHWH!! !!?M88WHX:.
+                 .X*#M@$!!  !X!M$$$$$$WWx:.
+                :!!!!!!?H! :!$!$$$$$$$$$$8X:
+               !!~  ~:~!! :~!$!#$$$$$$$$$$8X:
+              :!~::!H!<   ~.U$X!?R$$$$$$$$MM!
+              ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!
+                !:~~~ .:!M"T#$$$$WX??#MRRMMM!
+                ~?WuxiW*`   `"#$$$$8!!!!??!!!
+              :X- M$$$$       `"T#$T~!8$WUXU~
+             :%`  ~#$$$m:        ~!~ ?$$$$$$
+           :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
+  .....   -~~:<` !    ~?T#$$@@W@*?$$      /`
+  W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
+  #"~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`
+  :::~:!!`:X~ .: ?H.!u "$$$B$$$!W:U!T$$M~
+  .~~   :X@!.-~   ?@WTWo("*$$$W$TH$! `
+  Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
+  $R@i.~~ !     :   ~$$$$$B$$en:``
+  ?MXT@Wx.~    :     ~"##*$$$$M~
+```
