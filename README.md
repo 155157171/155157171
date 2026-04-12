@@ -14,7 +14,7 @@
             :#@%-...            =@@@@*.           
             -%@*.:++-.          :#@@%-            
             -%@- =@@%*:       ..:=@@*.            
-           .-%#: -%@@@#.    .:**#*%@*.                  Se meu rival me usasse como espelho talvez ele não morreria pobre;
+           .-%#: -%@@@#.    .:**#*%@*.                  Se meu rival me usasse como espelho talvez ele não morreria pobre
           :=*%*: .-%@@@*   .=#@@@#*@*.            
          .=%@@*:   -+@@#   :%@@@%-=@+             
          .=%@@@+.   .:::   :#@@%-.=@+             
